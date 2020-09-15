@@ -1,9 +1,9 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
   </component>
