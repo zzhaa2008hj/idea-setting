@@ -32,6 +32,14 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -43,6 +51,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorNextWord" />
@@ -89,7 +100,9 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="OpenElementInNewWindow" />
+  <action id="PreviousProjectWindow" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <keyboard-shortcut first-keystroke="alt e" />
