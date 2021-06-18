@@ -10,6 +10,10 @@
           <option name="url" value="http://git.dayouqiantu.cn" />
           <option name="userName" value="792717352@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://qq.com@gitee.com" />
+          <option name="userName" value="792717352" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
