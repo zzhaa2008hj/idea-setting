@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
@@ -61,6 +62,10 @@
   <action id="EditorRightWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorStartNewLine" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="ExpandExpandableComponent">
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl equals" />
