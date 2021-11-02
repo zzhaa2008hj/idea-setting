@@ -7,7 +7,6 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorDeleteLine">
@@ -29,6 +28,5 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="SetShortcutAction" />
-  <action id="ShowIntentionActions" />
   <action id="XDebugger.CopyWatch" />
 </keymap>
