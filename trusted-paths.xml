@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/projects/rhino" />
+        <option value="$USER_HOME$/projects/toll" />
       </list>
     </option>
   </component>
