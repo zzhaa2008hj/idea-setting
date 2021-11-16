@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/projects/rhino" />
         <option value="$USER_HOME$/projects/toll" />
+        <option value="$USER_HOME$/projects/chess" />
       </list>
     </option>
   </component>
