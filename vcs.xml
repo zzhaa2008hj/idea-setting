@@ -110,6 +110,18 @@
           <option name="url" value="https://e.coding.net/bibangkeji/redian/chess-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/encryptedcloud-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/encryptedcloud-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/chess-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/chess" />
