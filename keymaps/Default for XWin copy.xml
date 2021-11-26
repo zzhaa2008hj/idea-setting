@@ -83,6 +83,7 @@
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="GotoFile" />
+  <action id="GotoTest" />
   <action id="GuiDesigner.Duplicate" />
   <action id="HippieCompletion" />
   <action id="IntroduceField" />
@@ -116,14 +117,20 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="ResizeToolWindowLeft" />
+  <action id="ResourceExplorer.show" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShowFilterPopup" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
   </action>
   <action id="SonarLint.AnalyzeFiles" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SurroundWithLiveTemplate" />
   <action id="UpdateRunningApplication" />
   <action id="UsageGrouping.FileStructure" />
