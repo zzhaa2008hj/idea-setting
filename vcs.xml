@@ -146,9 +146,17 @@
           <option name="url" value="https://e.coding.net/bibangkeji/redian/lianke-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/sky-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/sky-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/lianke" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/sky" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
