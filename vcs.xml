@@ -158,9 +158,13 @@
           <option name="url" value="https://e.coding.net/bibangkeji/redian/littlefortuna-vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/redian/littlefortuna-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/tianan" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/xiaocaimi" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
