@@ -1,0 +1,40 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="aixi-java-new">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="aixi-java-new" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit4MockitoSpring.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit4MockitoSpring.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="aixi-java-new_yshop-mall">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="yshop-mall" />
+              <option name="testDirectoryRoot" value="yshop-admin/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="e47c9219-037c-440b-9f54-50b6cc190043" />
+  </component>
+</application>
