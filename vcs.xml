@@ -162,9 +162,13 @@
           <option name="url" value="https://e.coding.net/bibangkeji/redian/littlefortuna-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/bibangkeji/aixishangcheng/aixi-java-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/lianke" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/aixi" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
